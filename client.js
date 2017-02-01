@@ -23,7 +23,7 @@ $(function() {
 	<div class="row visible-xs"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><div id="incomplete" class="errors"><h4></h4></div>\
 	<button type="submit" id="submit1" class="btn btn-primary" name="submit">Submit</button></div></div>\
 	</div></form></div><div class="col-lg-6 col-md-6 col-sm-12 col-xs-12"><div class="more_contact text-center">\
-	<h1>You can also contact us at:</h1><h2>(573) 880-3894</h2><h2>chrisganeymedia@gmail.com</h2>\
+	<h1>You can also contact us at:</h1><h2></h2><h2>chrisganeymedia@gmail.com</h2>\
 	</div><img class="monstrato img-responsive center-block" alt="Website Screenshot"\
 	src="images/monstrato5.png" /></div></div><div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 visible"><div class="return">\
 	<h3><a href="http://chrisganeymedia.com" class="btn btn-default">Main Page</a></h3></div>\
