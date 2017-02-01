@@ -11,7 +11,7 @@
 			$imputs = $this->user_imput;
 			$methods = array($this->telephone,$this->email);
 			include_once ('includes/header.php');
-			include_once ('includes/contact_tmpl.php');
+			include_once ('includes/template.php');
 			}
 		public function interact($contents,$imput,$mthod,$chaing) {
 			$this->user_imput = $imput;
