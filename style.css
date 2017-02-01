@@ -25,7 +25,7 @@
 	}
 .backimage {
 		height: 122px;
-		background: url('images/Logo350.png');
+		background: url('');
 		background-repeat: no-repeat;
 		background-position: center; 
 		margin-bottom: -10px;
@@ -33,7 +33,7 @@
 @media only screen and (min-width : 480px) {
 	.backimage {
 		height: 156px;
-		background: url('images/Logo450.png');
+		background: url('');
 		background-repeat: no-repeat;
 		background-position: center; 
 		margin-bottom: -10px;
@@ -42,7 +42,7 @@
 @media only screen and (min-width : 768px) {
 	.backimage {
 		height: 151px;
-		background: url('images/Logo700.png');
+		background: url('');
 		background-repeat: no-repeat;
 		background-position: center;
 		margin-bottom: -5px;
@@ -51,7 +51,7 @@
 @media only screen and (min-width : 992px) {
 	.backimage {
 		height: 193px;
-		background: url('images/Logo900.png');
+		background: url('');
 		background-repeat: no-repeat;
 		background-position: center;
 		margin-bottom: -5px;
@@ -60,7 +60,7 @@
 @media only screen and (min-width : 1200px) {
 	.backimage {
 		height: 214px;
-		background: url('images/Logo1000.png');
+		background: url('');
 		background-repeat: no-repeat;
 		background-position: center;
 		margin-bottom: -5px;
