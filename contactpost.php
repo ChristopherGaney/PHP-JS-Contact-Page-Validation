@@ -60,7 +60,7 @@
 				$this->pref_method = filter_var($_POST['method'], FILTER_SANITIZE_STRING);
 				}
 			else { $this->pref_method = ""; }
-			include_once('config/process.php');
+			include_once('config/email.php');
 			$adj = new Process($this->user_input,$this->pref_method);
 			$result = $adj->send_email();
 			if($result === 'sent') {
