@@ -17,7 +17,7 @@
 				}
 			}
 		public function send_content() {
-			include_once('views/contactviewer.php');
+			include_once('views/contactview.php');
 			$adj = new Contactviewer;
 			$adj->contactview($this->content,$this->err_chg);
 			}
@@ -71,12 +71,12 @@
 				}
 			}
 		public function respond() {
-			include_once('views/contactviewer.php');
+			include_once('views/contactview.php');
 			$adj = new Contactviewer;
 			$adj->interact($this->content,$this->user_input,$this->pref_method,$this->err_chg);
 			}
 		public function initiate() {
-			include_once('config/process.php');
+			include_once('config/email.php');
 			$adj = new Process($this->user_input,$this->pref_method);
 			$result = $adj->send_email();
 			if($result === 'sent') {
