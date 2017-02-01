@@ -45,7 +45,7 @@
 		<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 			<div class="more_contact text-center">
 				<h1>You can also contact us at:</h1>
-				<h2>(573) 880-3894</h2>
+				<h2></h2>
 				<h2>chrisganeymedia@gmail.com</h2>
 			</div>
 				<img class="monstrato img-responsive center-block" alt="Website Screenshot"\
